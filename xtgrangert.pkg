@@ -1,0 +1,13 @@
+v 3
+d xtgrangert Improved tests for Granger noncausality in panel data.
+d Jiaqi Xiao
+d Yiannis Karavias
+d Artūras Juodis
+d Vasilis Sarafidis
+d Jan Ditzen
+d Distribution-Date:  20230509
+f xtgrangert.ado
+f xtgrangert.sthlp
+f xtgrangert_example.do
+f xtgrangert_example.dta
+f xtgrangert_p.ado
