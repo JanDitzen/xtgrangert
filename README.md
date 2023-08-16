@@ -1,5 +1,7 @@
 # xtgrangert
 
+![version](https://img.shields.io/github/v/release/janditzen/xtgrangert)  ![release](https://img.shields.io/github/release-date/janditzen/xtgrangert)
+
 Improved tests for Granger noncausality in panel data
 
 Jiaqi Xiao, [Yiannis Karavias](https://sites.google.com/site/yianniskaravias/), [Artūras Juodis](https://sites.google.com/site/ajuodisresearch/) and [Vasilis Sarafidis](https://sites.google.com/view/vsarafidis).
